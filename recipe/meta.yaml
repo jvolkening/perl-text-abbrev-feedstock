@@ -40,7 +40,6 @@ about:
   license_family: OTHER
   summary: 'abbrev - create an abbreviation table from a list'
   license_file: LICENSE
-    - LICENSE
 
 extra:
   recipe-maintainers:
